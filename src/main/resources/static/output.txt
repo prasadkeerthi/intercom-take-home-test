@@ -1,0 +1,16 @@
+{"distance":10.566936288868758,"user_id":4,"name":"Ian Kehoe"}
+{"distance":23.287320663099482,"user_id":5,"name":"Nora Dempsey"}
+{"distance":24.085360019144122,"user_id":6,"name":"Theresa Enright"}
+{"distance":83.5325311678587,"user_id":8,"name":"Eoin Ahearn"}
+{"distance":38.137568098201655,"user_id":11,"name":"Richard Finnegan"}
+{"distance":41.7687255008362,"user_id":12,"name":"Christina McArdle"}
+{"distance":62.23170226292826,"user_id":13,"name":"Olive Ahearn"}
+{"distance":43.72248745925171,"user_id":15,"name":"Michael Ahearn"}
+{"distance":96.07859923633525,"user_id":17,"name":"Patricia Cahill"}
+{"distance":82.69492611639981,"user_id":23,"name":"Eoin Gallagher"}
+{"distance":89.03103382223571,"user_id":24,"name":"Rose Enright"}
+{"distance":98.87459926458506,"user_id":26,"name":"Stephen McArdle"}
+{"distance":72.2017854970427,"user_id":29,"name":"Oliver Ahearn"}
+{"distance":82.64284999110234,"user_id":30,"name":"Nick Enright"}
+{"distance":44.29082235506623,"user_id":31,"name":"Alan Behan"}
+{"distance":38.35801477480561,"user_id":39,"name":"Lisa Ahearn"}
